@@ -18,12 +18,12 @@ EXCLUDES       = [ADDON_ID]
 CACHETEXT      = 'No'
 CACHEAGE       = 0
 # Text File with build info in it.
-BUILDFILE      = 'https://github.com/EZKodi/EZKodiFiles/raw/master/Builds/builds.txt'
+BUILDFILE      = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Builds/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
-APKFILE        = 'https://github.com/EZKodi/EZKodiFiles/raw/master/Kodi%20APK/Apk.txt'
+APKFILE        = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Kodi%20APK/Apk.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE   = ''
 YOUTUBEFILE    = 'http://'
@@ -42,18 +42,18 @@ ADVANCEDFILE   = 'http://'
 # Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
 #           ICONSETTINGS  = ''
 # Leave as http:// for default icon
-ICONBUILDS     = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONMAINT      = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONSPEED      = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONAPK        = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONADDONS     = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONYOUTUBE    = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONSAVE       = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONTRAKT      = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONREAL       = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONLOGIN      = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONCONTACT    = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
-ICONSETTINGS   = 'https://github.com/EZKodi/plugin.program.ezkodiwizard/raw/master/icon.png'
+ICONBUILDS     = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONMAINT      = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONSPEED      = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONAPK        = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONADDONS     = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONYOUTUBE    = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONSAVE       = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONTRAKT      = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONREAL       = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONLOGIN      = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONCONTACT    = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
+ICONSETTINGS   = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Art/Other%20Art/wizardicon.png'
 # Hide the section seperators 'Yes' or 'No'
 HIDESPACERS    = 'No'
 # Character used in seperator
@@ -91,7 +91,7 @@ CONTACTFANART  = 'http://'
 # Enable Auto Update 'Yes' or 'No'
 AUTOUPDATE     = 'Yes'
 # Url to wizard version
-WIZARDFILE     = 'https://github.com/EZKodi/EZKodiFiles/raw/master/Builds/builds.txt'
+WIZARDFILE     = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Builds/builds.txt'
 #########################################################
 
 #########################################################
