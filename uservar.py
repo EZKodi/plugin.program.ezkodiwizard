@@ -18,12 +18,12 @@ EXCLUDES       = [ADDON_ID]
 CACHETEXT      = 'No'
 CACHEAGE       = 0
 # Text File with build info in it.
-BUILDFILE      = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Builds/builds.txt'
+BUILDFILE      = 'http://'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
-APKFILE        = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Kodi%20APK/Apk.txt'
+APKFILE        = 'http://'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE   = ''
 YOUTUBEFILE    = 'http://'
@@ -91,7 +91,7 @@ CONTACTFANART  = 'http://'
 # Enable Auto Update 'Yes' or 'No'
 AUTOUPDATE     = 'Yes'
 # Url to wizard version
-WIZARDFILE     = 'https://raw.githubusercontent.com/EZKodi/EZKodiFiles/master/Builds/builds.txt'
+WIZARDFILE     = 'http://'
 #########################################################
 
 #########################################################
